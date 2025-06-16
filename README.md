@@ -51,7 +51,9 @@ Manav Sharma
 
 ![blockchain-ledger (2)](https://github.com/user-attachments/assets/f05ccbeb-2ed2-4acc-b0b6-1443305b7d55)
 
- ![expense-entry-form](https://github.com/user-attachments/assets/0f290e45-6c16-4348-b246-e41760b1235e)
+![add-entry-form-and-table-view (description hidden for privacy)](https://github.com/user-attachments/assets/297f3cba-eb56-4fe7-b0d0-6336d8591f49)
+
+![ai-budget-suggestion (2)](https://github.com/user-attachments/assets/c6e75d06-4634-4e57-8f85-33548e476f69)
 
 ![ai-budget-suggestion](https://github.com/user-attachments/assets/32fb76db-79f3-433c-9f26-7db33fbe7f31)
 
