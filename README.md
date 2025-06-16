@@ -51,6 +51,7 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
+![blockchain-ledger (2)](https://github.com/user-attachments/assets/cd0096cd-0626-4a58-afff-8d2ee104b68a)
 Manav Sharma  
 GitHub: https://github.com/manavsharma1142
 
