@@ -45,8 +45,12 @@ This project was built as a personal finance assistant to:
 - Learn blockchain implementation fundamentals  
 - Practice full-scale desktop app development using C++ and Qt
 
+## License
+
+This project is open-source and available under the MIT License.
 
 ## Author
 
 Manav Sharma  
 GitHub: https://github.com/manavsharma1142
+
