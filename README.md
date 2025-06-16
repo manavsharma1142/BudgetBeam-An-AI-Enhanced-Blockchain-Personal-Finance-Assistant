@@ -49,8 +49,11 @@ This project was built as a personal finance assistant to:
 
 Manav Sharma 
 
-![blockchain-ledger (2)](https://github.com/user-attachments/assets/cd0096cd-0626-4a58-afff-8d2ee10![expense-entry-form](https://github.com/user-attachments/assets/ec248202-9ac3-4156-b569-2bf40b5e5ad0)
-4b68a)
- 
+![blockchain-ledger (2)](https://github.com/user-attachments/assets/f05ccbeb-2ed2-4acc-b0b6-1443305b7d55)
+
+ ![expense-entry-form](https://github.com/user-attachments/assets/0f290e45-6c16-4348-b246-e41760b1235e)
+
+![ai-budget-suggestion](https://github.com/user-attachments/assets/32fb76db-79f3-433c-9f26-7db33fbe7f31)
+
 GitHub: https://github.com/manavsharma1142
 
