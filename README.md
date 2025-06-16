@@ -45,9 +45,6 @@ This project was built as a personal finance assistant to:
 - Learn blockchain implementation fundamentals  
 - Practice full-scale desktop app development using C++ and Qt
 
-## Author
-
-Manav Sharma 
 
 ![blockchain-ledger (2)](https://github.com/user-attachments/assets/f05ccbeb-2ed2-4acc-b0b6-1443305b7d55)
 
@@ -56,6 +53,10 @@ Manav Sharma
 ![ai-budget-suggestion (2)](https://github.com/user-attachments/assets/c6e75d06-4634-4e57-8f85-33548e476f69)
 
 ![ai-budget-suggestion](https://github.com/user-attachments/assets/32fb76db-79f3-433c-9f26-7db33fbe7f31)
+
+## Author
+
+Manav Sharma
 
 GitHub: https://github.com/manavsharma1142
 
