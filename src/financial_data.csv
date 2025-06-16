@@ -1,0 +1,1001 @@
+Date,Amount,Category,Description
+02-01-2023,426.84,Miscellaneous,Charity donation
+02-01-2023,1927.88,Dining,Restaurant meal
+02-01-2023,405.28,Miscellaneous,Personal care items
+03-01-2023,441.57,Miscellaneous,Personal care items
+03-01-2023,126.30,Entertainment,Streaming service subscription
+03-01-2023,756.48,Dining,Fast food
+03-01-2023,652.24,Transportation,Train ticket
+03-01-2023,1184.79,Utilities,Internet subscription
+04-01-2023,1579.14,Dining,Fast food
+04-01-2023,3246.06,Groceries,Farmers market
+05-01-2023,112.04,Miscellaneous,Personal care items
+05-01-2023,639.19,Transportation,Bus pass
+05-01-2023,242.01,Transportation,Rickshaw total daily cost
+05-01-2023,454.39,Miscellaneous,Charity donation
+05-01-2023,15554.71,Education,School fees
+06-01-2023,1332.02,Utilities,Water bill
+06-01-2023,1069.07,Dining,Restaurant meal
+06-01-2023,5610.02,Education,School fees
+06-01-2023,10.60,Transportation,Train ticket
+06-01-2023,1584.54,Dining,Coffee shop
+07-01-2023,454.74,Miscellaneous,Personal care items
+07-01-2023,715.54,Transportation,Petrol filling
+07-01-2023,977.68,Utilities,Water bill
+07-01-2023,907.36,Transportation,Bus pass
+07-01-2023,630.99,Dining,Coffee shop
+07-01-2023,919.98,Transportation,Rickshaw total daily cost
+08-01-2023,125.57,Miscellaneous,Personal care items
+08-01-2023,146.73,Miscellaneous,Gift purchase
+09-01-2023,404.23,Miscellaneous,Gift purchase
+09-01-2023,895.99,Transportation,Rickshaw total daily cost
+09-01-2023,289.37,Miscellaneous,Personal care items
+09-01-2023,135.61,Miscellaneous,Gift purchase
+09-01-2023,326.86,Transportation,Petrol filling
+10-01-2023,871.30,Dining,Fast food
+10-01-2023,18263.93,Education,Textbook purchase
+10-01-2023,13976.92,Housing,Property tax
+10-01-2023,1201.31,Utilities,Water bill
+11-01-2023,442.79,Miscellaneous,Personal care items
+11-01-2023,578.93,Transportation,Rickshaw total daily cost
+11-01-2023,19633.98,Education,Textbook purchase
+11-01-2023,899.24,Dining,Coffee shop
+12-01-2023,312.78,Miscellaneous,Charity donation
+12-01-2023,825.66,Utilities,Internet subscription
+12-01-2023,1507.87,Dining,Fast food
+12-01-2023,412.01,Miscellaneous,Charity donation
+12-01-2023,12197.56,Housing,Rent payment
+13-01-2023,169.35,Transportation,Bus pass
+13-01-2023,206.51,Transportation,Rickshaw total daily cost
+13-01-2023,819.66,Transportation,Petrol filling
+13-01-2023,1297.47,Utilities,Internet subscription
+13-01-2023,707.89,Utilities,Electricity bill
+14-01-2023,1078.00,Utilities,Water bill
+14-01-2023,499.42,Miscellaneous,Charity donation
+14-01-2023,995.44,Utilities,Electricity bill
+14-01-2023,155.91,Entertainment,Streaming service subscription
+14-01-2023,162.51,Transportation,Rickshaw total daily cost
+15-01-2023,1121.14,Utilities,Internet subscription
+15-01-2023,3693.84,Groceries,Grocery store purchase
+15-01-2023,5909.60,Education,School fees
+15-01-2023,3549.04,Education,School fees
+15-01-2023,325.97,Transportation,Rickshaw total daily cost
+16-01-2023,898.90,Transportation,Bus pass
+16-01-2023,294.70,Transportation,Train ticket
+16-01-2023,10327.03,Housing,Property tax
+17-01-2023,676.85,Utilities,Electricity bill
+17-01-2023,837.89,Dining,Fast food
+17-01-2023,152.69,Transportation,Train ticket
+17-01-2023,9301.90,Housing,Mortgage installment
+18-01-2023,395.30,Miscellaneous,Charity donation
+18-01-2023,1265.18,Utilities,Internet subscription
+18-01-2023,448.50,Miscellaneous,Personal care items
+18-01-2023,354.15,Miscellaneous,Gift purchase
+19-01-2023,1584.31,Dining,Restaurant meal
+19-01-2023,725.00,Utilities,Internet subscription
+19-01-2023,180.66,Miscellaneous,Gift purchase
+19-01-2023,7134.28,Health,gym fee
+19-01-2023,187.76,Dining,Restaurant meal
+19-01-2023,166.25,Entertainment,Streaming service subscription
+20-01-2023,3553.42,Education,School fees
+21-01-2023,1703.74,Dining,Fast food
+21-01-2023,1924.86,Dining,Fast food
+21-01-2023,14727.57,Housing,Mortgage installment
+21-01-2023,190.03,Entertainment,Movie ticket
+21-01-2023,136.37,Transportation,Petrol filling
+22-01-2023,2381.98,Education,School fees
+22-01-2023,747.42,Transportation,Bus pass
+22-01-2023,1063.83,Utilities,Internet subscription
+23-01-2023,120.14,Entertainment,Movie ticket
+23-01-2023,365.83,Miscellaneous,Gift purchase
+23-01-2023,398.14,Groceries,Supermarket
+23-01-2023,1964.22,Dining,Fast food
+24-01-2023,118.57,Entertainment,Movie ticket
+24-01-2023,516.92,Utilities,Electricity bill
+24-01-2023,7835.50,Housing,Property tax
+25-01-2023,687.83,Utilities,Water bill
+25-01-2023,1086.27,Education,Online course subscription
+25-01-2023,679.90,Dining,Coffee shop
+25-01-2023,1082.71,Dining,Coffee shop
+26-01-2023,433.86,Miscellaneous,Charity donation
+26-01-2023,502.06,Dining,Coffee shop
+27-01-2023,1842.01,Dining,Fast food
+27-01-2023,9524.13,Education,School fees
+27-01-2023,4902.61,Groceries,Supermarket
+28-01-2023,309.39,Miscellaneous,Charity donation
+28-01-2023,11138.87,Education,Online course subscription
+29-01-2023,1571.82,Dining,Coffee shop
+30-01-2023,410.71,Dining,Restaurant meal
+30-01-2023,452.67,Dining,Fast food
+30-01-2023,1029.83,Utilities,Internet subscription
+30-01-2023,694.40,Transportation,Bus pass
+30-01-2023,467.26,Miscellaneous,Charity donation
+31-01-2023,237.76,Dining,Fast food
+31-01-2023,753.83,Transportation,Petrol filling
+31-01-2023,105.71,Miscellaneous,Charity donation
+01-02-2023,9462.25,Health,Doctor appointment
+02-02-2023,82.56,Transportation,Bus pass
+02-02-2023,562.03,Utilities,Electricity bill
+02-02-2023,955.40,Dining,Fast food
+02-02-2023,784.78,Utilities,Internet subscription
+02-02-2023,122.13,Entertainment,Concert ticket
+03-02-2023,682.61,Dining,Fast food
+03-02-2023,299.42,Groceries,Grocery store purchase
+03-02-2023,12734.17,Housing,Mortgage installment
+04-02-2023,643.70,Dining,Fast food
+04-02-2023,266.28,Miscellaneous,Charity donation
+04-02-2023,101.64,Entertainment,Concert ticket
+04-02-2023,499.30,Miscellaneous,Charity donation
+05-02-2023,10653.69,Education,School fees
+05-02-2023,936.76,Dining,Coffee shop
+05-02-2023,10154.82,Housing,Rent payment
+05-02-2023,1675.83,Dining,Restaurant meal
+06-02-2023,17436.70,Education,Online course subscription
+06-02-2023,8874.45,Housing,Property tax
+06-02-2023,1541.79,Health,Doctor appointment
+06-02-2023,91.60,Miscellaneous,Charity donation
+08-02-2023,2135.73,Education,School fees
+08-02-2023,886.84,Utilities,Electricity bill
+08-02-2023,150.01,Entertainment,Streaming service subscription
+09-02-2023,777.84,Utilities,Water bill
+09-02-2023,349.47,Transportation,Train ticket
+09-02-2023,1651.24,Dining,Coffee shop
+10-02-2023,595.70,Transportation,Bus pass
+10-02-2023,877.60,Utilities,Electricity bill
+10-02-2023,1877.28,Groceries,Farmers market
+10-02-2023,78.93,Transportation,Bus pass
+10-02-2023,2179.36,Groceries,Farmers market
+11-02-2023,6664.21,Education,Online course subscription
+11-02-2023,847.58,Utilities,Water bill
+12-02-2023,27.69,Transportation,Train ticket
+13-02-2023,244.44,Transportation,Rickshaw total daily cost
+13-02-2023,146.33,Entertainment,Movie ticket
+13-02-2023,7739.79,Housing,Mortgage installment
+14-02-2023,40.44,Transportation,Train ticket
+14-02-2023,498.26,Miscellaneous,Charity donation
+14-02-2023,11642.35,Education,Online course subscription
+15-02-2023,265.12,Dining,Fast food
+15-02-2023,203.87,Miscellaneous,Charity donation
+15-02-2023,2489.17,Groceries,Supermarket
+15-02-2023,109.95,Dining,Fast food
+16-02-2023,11371.61,Education,Online course subscription
+16-02-2023,252.72,Transportation,Train ticket
+17-02-2023,1385.20,Utilities,Electricity bill
+17-02-2023,269.71,Miscellaneous,Charity donation
+17-02-2023,501.81,Utilities,Water bill
+18-02-2023,780.24,Dining,Coffee shop
+18-02-2023,826.13,Transportation,Rickshaw total daily cost
+19-02-2023,1734.93,Dining,Restaurant meal
+19-02-2023,840.65,Utilities,Water bill
+19-02-2023,142.83,Miscellaneous,Gift purchase
+20-02-2023,986.90,Utilities,Internet subscription
+20-02-2023,364.18,Miscellaneous,Personal care items
+20-02-2023,843.92,Dining,Coffee shop
+20-02-2023,426.12,Miscellaneous,Personal care items
+21-02-2023,867.63,Transportation,Bus pass
+21-02-2023,1078.57,Utilities,Water bill
+21-02-2023,204.66,Transportation,Train ticket
+21-02-2023,1994.14,Dining,Restaurant meal
+21-02-2023,6071.41,Housing,Rent payment
+21-02-2023,1096.69,Dining,Fast food
+22-02-2023,1563.70,Dining,Coffee shop
+22-02-2023,184.90,Entertainment,Movie ticket
+22-02-2023,500.43,Groceries,Grocery store purchase
+22-02-2023,61.65,Transportation,Petrol filling
+23-02-2023,7350.44,Housing,Property tax
+23-02-2023,4784.06,Health,Doctor appointment
+23-02-2023,696.59,Transportation,Petrol filling
+24-02-2023,209.36,Miscellaneous,Personal care items
+24-02-2023,1273.39,Groceries,Supermarket
+24-02-2023,337.61,Dining,Fast food
+25-02-2023,15070.08,Education,School fees
+25-02-2023,2473.49,Education,School fees
+25-02-2023,188.64,Groceries,Grocery store purchase
+25-02-2023,390.43,Transportation,Rickshaw total daily cost
+25-02-2023,443.30,Dining,Fast food
+26-02-2023,41.69,Transportation,Train ticket
+26-02-2023,1985.46,Dining,Restaurant meal
+27-02-2023,12814.13,Housing,Mortgage installment
+27-02-2023,208.99,Miscellaneous,Gift purchase
+27-02-2023,383.01,Miscellaneous,Personal care items
+27-02-2023,2385.23,Health,Health insurance
+28-02-2023,185.71,Entertainment,Concert ticket
+28-02-2023,140.57,Entertainment,Movie ticket
+28-02-2023,299.14,Dining,Fast food
+01-03-2023,964.34,Utilities,Internet subscription
+01-03-2023,10737.68,Housing,Mortgage installment
+01-03-2023,552.26,Dining,Restaurant meal
+02-03-2023,154.08,Transportation,Bus pass
+02-03-2023,680.04,Utilities,Internet subscription
+02-03-2023,1183.67,Utilities,Internet subscription
+02-03-2023,1810.63,Groceries,Grocery store purchase
+02-03-2023,14338.83,Housing,Mortgage installment
+03-03-2023,1023.25,Utilities,Electricity bill
+03-03-2023,469.66,Dining,Restaurant meal
+03-03-2023,1826.30,Education,Online course subscription
+03-03-2023,1609.43,Dining,Fast food
+04-03-2023,907.04,Transportation,Bus pass
+04-03-2023,1918.46,Dining,Coffee shop
+04-03-2023,7361.08,Health,Health insurance
+04-03-2023,11344.84,Education,Online course subscription
+05-03-2023,1969.33,Dining,Fast food
+06-03-2023,811.68,Utilities,Internet subscription
+06-03-2023,87.73,Miscellaneous,Charity donation
+06-03-2023,217.51,Miscellaneous,Personal care items
+06-03-2023,8735.50,Education,Textbook purchase
+07-03-2023,1352.20,Dining,Restaurant meal
+07-03-2023,15776.70,Education,School fees
+08-03-2023,661.43,Utilities,Water bill
+08-03-2023,3185.05,Groceries,Supermarket
+08-03-2023,352.00,Transportation,Rickshaw total daily cost
+08-03-2023,107.55,Transportation,Bus pass
+08-03-2023,16002.22,Education,Textbook purchase
+09-03-2023,2177.23,Education,School fees
+09-03-2023,130.59,Entertainment,Streaming service subscription
+09-03-2023,1185.21,Dining,Fast food
+09-03-2023,850.32,Transportation,Petrol filling
+10-03-2023,183.72,Transportation,Petrol filling
+10-03-2023,1935.62,Dining,Restaurant meal
+10-03-2023,548.78,Transportation,Petrol filling
+11-03-2023,193.61,Entertainment,Concert ticket
+11-03-2023,1121.27,Groceries,Farmers market
+12-03-2023,263.80,Miscellaneous,Charity donation
+13-03-2023,536.82,Utilities,Internet subscription
+13-03-2023,394.28,Dining,Restaurant meal
+13-03-2023,458.51,Miscellaneous,Gift purchase
+13-03-2023,1089.75,Dining,Restaurant meal
+14-03-2023,179.99,Transportation,Rickshaw total daily cost
+14-03-2023,665.67,Utilities,Electricity bill
+14-03-2023,584.82,Utilities,Electricity bill
+16-03-2023,6499.19,Education,Textbook purchase
+16-03-2023,9159.89,Health,Doctor appointment
+17-03-2023,476.83,Transportation,Train ticket
+17-03-2023,2510.21,Groceries,Grocery store purchase
+17-03-2023,310.12,Transportation,Bus pass
+18-03-2023,11628.32,Housing,Property tax
+18-03-2023,3444.76,Groceries,Farmers market
+18-03-2023,161.02,Entertainment,Movie ticket
+18-03-2023,65.24,Groceries,Supermarket
+18-03-2023,367.38,Transportation,Train ticket
+19-03-2023,10384.20,Education,Online course subscription
+19-03-2023,4652.61,Groceries,Grocery store purchase
+19-03-2023,13965.11,Education,Textbook purchase
+20-03-2023,109.69,Entertainment,Streaming service subscription
+20-03-2023,1120.09,Dining,Fast food
+21-03-2023,1137.80,Utilities,Internet subscription
+21-03-2023,2183.00,Groceries,Farmers market
+21-03-2023,170.20,Entertainment,Movie ticket
+21-03-2023,14046.82,Housing,Rent payment
+22-03-2023,10249.43,Housing,Mortgage installment
+22-03-2023,3333.69,Groceries,Grocery store purchase
+22-03-2023,13477.41,Housing,Property tax
+23-03-2023,1630.54,Groceries,Grocery store purchase
+23-03-2023,11744.37,Housing,Property tax
+23-03-2023,2150.51,Groceries,Farmers market
+23-03-2023,1001.64,Dining,Restaurant meal
+23-03-2023,1938.32,Dining,Fast food
+24-03-2023,1858.08,Dining,Fast food
+24-03-2023,13702.06,Education,School fees
+25-03-2023,176.01,Entertainment,Streaming service subscription
+25-03-2023,1039.60,Utilities,Water bill
+26-03-2023,507.31,Transportation,Bus pass
+26-03-2023,193.83,Entertainment,Streaming service subscription
+26-03-2023,862.02,Transportation,Rickshaw total daily cost
+27-03-2023,1269.69,Utilities,Water bill
+27-03-2023,1263.02,Utilities,Internet subscription
+27-03-2023,884.32,Transportation,Petrol filling
+27-03-2023,10482.48,Education,Online course subscription
+27-03-2023,956.46,Groceries,Supermarket
+28-03-2023,793.66,Transportation,Petrol filling
+28-03-2023,7287.44,Education,School fees
+29-03-2023,119.09,Entertainment,Streaming service subscription
+29-03-2023,183.93,Miscellaneous,Personal care items
+29-03-2023,4114.46,Groceries,Supermarket
+29-03-2023,440.47,Transportation,Train ticket
+30-03-2023,18857.07,Education,Online course subscription
+30-03-2023,161.28,Miscellaneous,Gift purchase
+30-03-2023,14747.63,Education,Textbook purchase
+30-03-2023,226.59,Miscellaneous,Gift purchase
+30-03-2023,58.28,Miscellaneous,Personal care items
+31-03-2023,904.28,Dining,Coffee shop
+31-03-2023,14614.12,Education,Online course subscription
+31-03-2023,4871.92,Groceries,Grocery store purchase
+01-04-2023,969.40,Transportation,Bus pass
+01-04-2023,728.10,Utilities,Electricity bill
+02-04-2023,7150.43,Education,School fees
+02-04-2023,7652.74,Housing,Property tax
+02-04-2023,1276.65,Dining,Coffee shop
+03-04-2023,3502.57,Groceries,Supermarket
+03-04-2023,887.13,Transportation,Bus pass
+03-04-2023,9273.89,Housing,Mortgage installment
+04-04-2023,12570.06,Education,School fees
+04-04-2023,1381.58,Utilities,Internet subscription
+04-04-2023,86.31,Groceries,Grocery store purchase
+05-04-2023,1094.36,Dining,Restaurant meal
+05-04-2023,1085.92,Utilities,Internet subscription
+06-04-2023,1090.14,Utilities,Electricity bill
+06-04-2023,3863.75,Groceries,Farmers market
+07-04-2023,1353.30,Utilities,Internet subscription
+07-04-2023,182.41,Entertainment,Movie ticket
+07-04-2023,167.99,Miscellaneous,Charity donation
+07-04-2023,109.32,Entertainment,Movie ticket
+07-04-2023,15851.85,Education,Textbook purchase
+07-04-2023,1020.47,Groceries,Supermarket
+08-04-2023,1147.14,Dining,Restaurant meal
+08-04-2023,1460.34,Dining,Restaurant meal
+08-04-2023,186.48,Miscellaneous,Personal care items
+09-04-2023,116.60,Entertainment,Movie ticket
+09-04-2023,573.17,Dining,Restaurant meal
+09-04-2023,222.24,Miscellaneous,Gift purchase
+10-04-2023,392.36,Transportation,Rickshaw total daily cost
+10-04-2023,413.73,Miscellaneous,Charity donation
+10-04-2023,1113.16,Dining,Coffee shop
+10-04-2023,996.36,Utilities,Internet subscription
+10-04-2023,114.63,Entertainment,Movie ticket
+11-04-2023,15643.98,Education,Textbook purchase
+11-04-2023,1344.27,Utilities,Internet subscription
+11-04-2023,470.51,Dining,Restaurant meal
+11-04-2023,167.43,Entertainment,Movie ticket
+11-04-2023,19931.62,Education,Textbook purchase
+12-04-2023,554.41,Utilities,Internet subscription
+12-04-2023,242.27,Transportation,Petrol filling
+12-04-2023,156.09,Entertainment,Movie ticket
+13-04-2023,12570.47,Education,Textbook purchase
+13-04-2023,175.14,Dining,Restaurant meal
+13-04-2023,2267.82,Groceries,Supermarket
+13-04-2023,1032.33,Utilities,Internet subscription
+13-04-2023,185.20,Entertainment,Movie ticket
+14-04-2023,19140.31,Education,School fees
+14-04-2023,675.68,Transportation,Rickshaw total daily cost
+14-04-2023,2427.10,Groceries,Supermarket
+14-04-2023,675.85,Dining,Restaurant meal
+14-04-2023,2398.27,Groceries,Grocery store purchase
+15-04-2023,968.81,Transportation,Train ticket
+15-04-2023,945.68,Utilities,Electricity bill
+15-04-2023,1375.31,Dining,Fast food
+16-04-2023,216.00,Dining,Coffee shop
+16-04-2023,1386.04,Dining,Coffee shop
+17-04-2023,10742.78,Housing,Mortgage installment
+17-04-2023,8975.75,Education,Textbook purchase
+17-04-2023,100.75,Entertainment,Movie ticket
+17-04-2023,603.82,Transportation,Petrol filling
+17-04-2023,1803.89,Dining,Restaurant meal
+18-04-2023,769.80,Utilities,Internet subscription
+18-04-2023,6863.69,Housing,Mortgage installment
+19-04-2023,2134.84,Groceries,Farmers market
+19-04-2023,123.08,Groceries,Farmers market
+20-04-2023,1264.63,Utilities,Water bill
+20-04-2023,4087.28,Groceries,Supermarket
+20-04-2023,438.47,Transportation,Train ticket
+21-04-2023,977.38,Transportation,Train ticket
+21-04-2023,19785.59,Education,Online course subscription
+22-04-2023,1632.36,Education,Online course subscription
+23-04-2023,1518.93,Dining,Coffee shop
+23-04-2023,151.30,Transportation,Bus pass
+23-04-2023,800.48,Transportation,Bus pass
+24-04-2023,506.13,Transportation,Rickshaw total daily cost
+24-04-2023,662.18,Utilities,Electricity bill
+25-04-2023,390.17,Miscellaneous,Gift purchase
+25-04-2023,1801.80,Groceries,Supermarket
+25-04-2023,1993.62,Dining,Restaurant meal
+25-04-2023,1905.90,Groceries,Supermarket
+26-04-2023,618.48,Transportation,Bus pass
+26-04-2023,1948.23,Dining,Coffee shop
+26-04-2023,3405.14,Groceries,Farmers market
+27-04-2023,13245.00,Education,School fees
+27-04-2023,2114.17,Groceries,Supermarket
+28-04-2023,13403.18,Housing,Rent payment
+28-04-2023,148.95,Entertainment,Concert ticket
+29-04-2023,5642.47,Health,Health insurance
+29-04-2023,966.97,Transportation,Petrol filling
+29-04-2023,715.80,Utilities,Internet subscription
+29-04-2023,757.28,Utilities,Internet subscription
+29-04-2023,128.89,Miscellaneous,Personal care items
+29-04-2023,263.03,Miscellaneous,Personal care items
+30-04-2023,100.65,Entertainment,Concert ticket
+30-04-2023,127.84,Entertainment,Streaming service subscription
+30-04-2023,137.85,Transportation,Bus pass
+30-04-2023,3222.00,Education,Online course subscription
+30-04-2023,1335.87,Dining,Coffee shop
+01-05-2023,218.64,Transportation,Bus pass
+01-05-2023,193.63,Entertainment,Streaming service subscription
+01-05-2023,968.48,Transportation,Train ticket
+01-05-2023,843.32,Utilities,Internet subscription
+02-05-2023,159.11,Miscellaneous,Personal care items
+02-05-2023,233.86,Miscellaneous,Gift purchase
+02-05-2023,4866.21,Groceries,Supermarket
+02-05-2023,1647.30,Education,School fees
+03-05-2023,722.93,Transportation,Bus pass
+03-05-2023,399.63,Miscellaneous,Charity donation
+03-05-2023,1755.04,Dining,Restaurant meal
+03-05-2023,930.44,Groceries,Supermarket
+04-05-2023,799.56,Transportation,Rickshaw total daily cost
+04-05-2023,243.32,Transportation,Train ticket
+05-05-2023,4469.68,Health,gym fee
+05-05-2023,586.48,Transportation,Petrol filling
+05-05-2023,299.47,Miscellaneous,Gift purchase
+05-05-2023,197.32,Groceries,Farmers market
+05-05-2023,1115.90,Utilities,Water bill
+06-05-2023,6904.49,Housing,Rent payment
+06-05-2023,1364.03,Utilities,Water bill
+06-05-2023,1213.91,Dining,Restaurant meal
+06-05-2023,17736.22,Education,School fees
+07-05-2023,1176.51,Utilities,Internet subscription
+07-05-2023,968.37,Utilities,Water bill
+07-05-2023,19637.24,Education,School fees
+07-05-2023,119.34,Miscellaneous,Charity donation
+08-05-2023,678.08,Transportation,Petrol filling
+08-05-2023,964.15,Transportation,Train ticket
+08-05-2023,9320.87,Housing,Mortgage installment
+09-05-2023,807.07,Transportation,Petrol filling
+09-05-2023,1240.00,Groceries,Supermarket
+09-05-2023,927.71,Transportation,Petrol filling
+09-05-2023,1192.18,Utilities,Water bill
+10-05-2023,1994.50,Dining,Fast food
+10-05-2023,1242.15,Dining,Coffee shop
+10-05-2023,114.18,Miscellaneous,Charity donation
+12-05-2023,63.59,Miscellaneous,Gift purchase
+12-05-2023,3414.36,Health,gym fee
+12-05-2023,457.70,Groceries,Grocery store purchase
+12-05-2023,108.21,Entertainment,Movie ticket
+13-05-2023,140.41,Entertainment,Movie ticket
+13-05-2023,803.69,Transportation,Rickshaw total daily cost
+14-05-2023,922.13,Transportation,Bus pass
+14-05-2023,154.07,Entertainment,Movie ticket
+14-05-2023,652.65,Dining,Coffee shop
+14-05-2023,66.09,Miscellaneous,Gift purchase
+14-05-2023,3658.73,Education,School fees
+15-05-2023,490.53,Dining,Restaurant meal
+15-05-2023,1075.78,Dining,Fast food
+15-05-2023,1633.86,Groceries,Farmers market
+15-05-2023,1100.57,Dining,Restaurant meal
+15-05-2023,19657.88,Education,Online course subscription
+15-05-2023,2337.11,Education,School fees
+16-05-2023,183.40,Dining,Fast food
+16-05-2023,1354.59,Utilities,Electricity bill
+16-05-2023,1702.57,Dining,Fast food
+17-05-2023,1436.43,Groceries,Farmers market
+18-05-2023,478.41,Transportation,Petrol filling
+19-05-2023,103.57,Entertainment,Concert ticket
+19-05-2023,847.71,Transportation,Petrol filling
+19-05-2023,1481.47,Groceries,Supermarket
+20-05-2023,4115.34,Groceries,Farmers market
+20-05-2023,409.27,Miscellaneous,Charity donation
+20-05-2023,5976.81,Education,Textbook purchase
+20-05-2023,143.82,Entertainment,Concert ticket
+22-05-2023,13697.01,Education,Textbook purchase
+22-05-2023,155.34,Entertainment,Movie ticket
+22-05-2023,8219.12,Housing,Rent payment
+23-05-2023,484.01,Dining,Coffee shop
+23-05-2023,3269.41,Groceries,Grocery store purchase
+23-05-2023,687.35,Dining,Fast food
+23-05-2023,956.69,Utilities,Electricity bill
+23-05-2023,19890.48,Education,Textbook purchase
+24-05-2023,4235.77,Education,School fees
+24-05-2023,1116.20,Health,Pharmacy prescription
+24-05-2023,8340.18,Education,Textbook purchase
+24-05-2023,92.74,Miscellaneous,Gift purchase
+24-05-2023,440.40,Miscellaneous,Gift purchase
+25-05-2023,381.70,Miscellaneous,Personal care items
+25-05-2023,1981.72,Dining,Fast food
+25-05-2023,317.55,Miscellaneous,Charity donation
+25-05-2023,3340.62,Groceries,Supermarket
+25-05-2023,1036.90,Education,Online course subscription
+25-05-2023,8907.11,Education,Online course subscription
+26-05-2023,112.23,Transportation,Rickshaw total daily cost
+26-05-2023,670.76,Transportation,Bus pass
+26-05-2023,13557.49,Housing,Property tax
+26-05-2023,677.28,Transportation,Train ticket
+27-05-2023,797.56,Dining,Fast food
+27-05-2023,919.62,Transportation,Petrol filling
+27-05-2023,102.52,Entertainment,Streaming service subscription
+27-05-2023,281.45,Transportation,Rickshaw total daily cost
+27-05-2023,112.26,Miscellaneous,Gift purchase
+27-05-2023,110.70,Miscellaneous,Charity donation
+28-05-2023,359.27,Transportation,Rickshaw total daily cost
+28-05-2023,970.47,Utilities,Water bill
+28-05-2023,1929.81,Health,Health insurance
+28-05-2023,247.68,Dining,Restaurant meal
+28-05-2023,9575.80,Housing,Mortgage installment
+29-05-2023,181.21,Entertainment,Movie ticket
+29-05-2023,940.63,Transportation,Rickshaw total daily cost
+29-05-2023,5417.02,Housing,Property tax
+29-05-2023,392.14,Miscellaneous,Gift purchase
+29-05-2023,15234.78,Education,Online course subscription
+30-05-2023,192.89,Entertainment,Movie ticket
+30-05-2023,285.35,Miscellaneous,Personal care items
+30-05-2023,12455.00,Education,Online course subscription
+31-05-2023,6778.30,Health,Pharmacy prescription
+01-06-2023,1279.12,Utilities,Electricity bill
+01-06-2023,6910.48,Housing,Rent payment
+01-06-2023,1608.74,Dining,Restaurant meal
+01-06-2023,827.75,Transportation,Bus pass
+02-06-2023,593.97,Groceries,Supermarket
+02-06-2023,289.18,Transportation,Petrol filling
+02-06-2023,6557.43,Housing,Rent payment
+02-06-2023,4233.58,Groceries,Grocery store purchase
+02-06-2023,1354.28,Utilities,Internet subscription
+03-06-2023,321.29,Transportation,Bus pass
+03-06-2023,1338.79,Dining,Coffee shop
+03-06-2023,149.95,Miscellaneous,Gift purchase
+03-06-2023,233.18,Miscellaneous,Charity donation
+03-06-2023,16989.31,Education,Textbook purchase
+04-06-2023,16.15,Transportation,Train ticket
+05-06-2023,171.31,Miscellaneous,Gift purchase
+05-06-2023,381.22,Miscellaneous,Charity donation
+05-06-2023,5255.03,Health,Pharmacy prescription
+05-06-2023,3999.94,Groceries,Grocery store purchase
+05-06-2023,115.43,Miscellaneous,Charity donation
+05-06-2023,686.02,Transportation,Train ticket
+06-06-2023,6342.49,Housing,Mortgage installment
+06-06-2023,4232.98,Groceries,Farmers market
+06-06-2023,486.75,Miscellaneous,Personal care items
+08-06-2023,453.53,Transportation,Bus pass
+08-06-2023,608.98,Utilities,Electricity bill
+08-06-2023,970.28,Utilities,Electricity bill
+08-06-2023,1828.21,Groceries,Supermarket
+08-06-2023,774.79,Transportation,Petrol filling
+08-06-2023,993.37,Dining,Restaurant meal
+10-06-2023,740.54,Dining,Fast food
+10-06-2023,137.91,Entertainment,Movie ticket
+10-06-2023,158.16,Miscellaneous,Gift purchase
+11-06-2023,647.59,Dining,Coffee shop
+11-06-2023,538.39,Transportation,Train ticket
+12-06-2023,2133.21,Groceries,Farmers market
+13-06-2023,2241.35,Groceries,Supermarket
+13-06-2023,2041.41,Groceries,Supermarket
+13-06-2023,190.56,Dining,Coffee shop
+14-06-2023,1028.52,Groceries,Farmers market
+14-06-2023,10499.83,Education,Online course subscription
+14-06-2023,938.76,Dining,Coffee shop
+14-06-2023,6503.10,Education,Online course subscription
+14-06-2023,359.98,Miscellaneous,Personal care items
+16-06-2023,628.56,Transportation,Petrol filling
+16-06-2023,56.08,Miscellaneous,Personal care items
+16-06-2023,6167.56,Health,Doctor appointment
+17-06-2023,369.99,Miscellaneous,Gift purchase
+17-06-2023,698.68,Groceries,Grocery store purchase
+17-06-2023,2683.51,Health,Health insurance
+17-06-2023,10871.48,Housing,Property tax
+17-06-2023,13694.48,Education,School fees
+17-06-2023,150.43,Entertainment,Streaming service subscription
+18-06-2023,222.19,Dining,Fast food
+18-06-2023,195.81,Miscellaneous,Personal care items
+18-06-2023,1021.47,Groceries,Grocery store purchase
+18-06-2023,1356.11,Utilities,Internet subscription
+19-06-2023,8179.50,Housing,Rent payment
+19-06-2023,3899.41,Groceries,Grocery store purchase
+19-06-2023,1042.09,Utilities,Internet subscription
+19-06-2023,620.46,Transportation,Petrol filling
+20-06-2023,415.03,Transportation,Bus pass
+20-06-2023,378.39,Transportation,Petrol filling
+20-06-2023,6154.61,Education,Online course subscription
+21-06-2023,7872.03,Housing,Mortgage installment
+21-06-2023,815.78,Groceries,Grocery store purchase
+21-06-2023,460.88,Groceries,Grocery store purchase
+22-06-2023,590.67,Transportation,Petrol filling
+22-06-2023,8091.15,Housing,Mortgage installment
+23-06-2023,8124.73,Housing,Mortgage installment
+23-06-2023,704.00,Utilities,Water bill
+23-06-2023,13776.21,Housing,Rent payment
+24-06-2023,815.55,Utilities,Water bill
+24-06-2023,980.61,Utilities,Water bill
+24-06-2023,1625.28,Dining,Coffee shop
+25-06-2023,413.57,Miscellaneous,Gift purchase
+25-06-2023,8510.41,Housing,Rent payment
+26-06-2023,1173.86,Groceries,Farmers market
+26-06-2023,748.88,Transportation,Train ticket
+26-06-2023,7059.88,Education,Textbook purchase
+27-06-2023,170.51,Entertainment,Streaming service subscription
+27-06-2023,438.92,Miscellaneous,Personal care items
+27-06-2023,184.23,Entertainment,Concert ticket
+28-06-2023,630.47,Utilities,Electricity bill
+28-06-2023,197.75,Entertainment,Streaming service subscription
+28-06-2023,2365.39,Groceries,Grocery store purchase
+29-06-2023,160.60,Transportation,Rickshaw total daily cost
+29-06-2023,7462.18,Housing,Mortgage installment
+29-06-2023,123.16,Entertainment,Concert ticket
+29-06-2023,827.15,Utilities,Water bill
+30-06-2023,1106.77,Dining,Coffee shop
+30-06-2023,873.85,Utilities,Water bill
+30-06-2023,256.99,Miscellaneous,Gift purchase
+30-06-2023,1592.22,Groceries,Farmers market
+30-06-2023,179.92,Entertainment,Concert ticket
+30-06-2023,1479.00,Groceries,Supermarket
+01-07-2023,8862.74,Housing,Rent payment
+02-07-2023,947.89,Utilities,Water bill
+02-07-2023,108.75,Entertainment,Streaming service subscription
+02-07-2023,3289.66,Groceries,Grocery store purchase
+02-07-2023,8698.63,Housing,Property tax
+02-07-2023,77.88,Miscellaneous,Charity donation
+03-07-2023,466.26,Transportation,Train ticket
+04-07-2023,18197.48,Education,Textbook purchase
+04-07-2023,1834.71,Groceries,Supermarket
+04-07-2023,13389.80,Education,School fees
+04-07-2023,750.84,Transportation,Train ticket
+05-07-2023,125.69,Entertainment,Concert ticket
+05-07-2023,269.36,Miscellaneous,Gift purchase
+05-07-2023,6751.36,Housing,Mortgage installment
+06-07-2023,787.16,Utilities,Water bill
+07-07-2023,904.22,Transportation,Train ticket
+07-07-2023,6484.50,Education,School fees
+08-07-2023,1803.80,Dining,Fast food
+08-07-2023,235.79,Miscellaneous,Personal care items
+08-07-2023,197.06,Entertainment,Streaming service subscription
+08-07-2023,7463.74,Housing,Rent payment
+08-07-2023,433.62,Transportation,Rickshaw total daily cost
+10-07-2023,2532.41,Health,gym fee
+10-07-2023,16577.74,Education,School fees
+11-07-2023,125.90,Entertainment,Concert ticket
+11-07-2023,3365.80,Groceries,Farmers market
+11-07-2023,870.33,Dining,Fast food
+11-07-2023,912.58,Dining,Fast food
+12-07-2023,72.68,Transportation,Bus pass
+12-07-2023,19767.00,Education,Textbook purchase
+13-07-2023,1313.19,Dining,Coffee shop
+13-07-2023,110.41,Entertainment,Movie ticket
+13-07-2023,162.31,Miscellaneous,Gift purchase
+13-07-2023,89.81,Miscellaneous,Gift purchase
+14-07-2023,12841.43,Education,Online course subscription
+14-07-2023,880.36,Transportation,Bus pass
+14-07-2023,964.05,Transportation,Train ticket
+15-07-2023,1112.96,Utilities,Electricity bill
+15-07-2023,1423.69,Dining,Restaurant meal
+16-07-2023,2043.41,Groceries,Grocery store purchase
+16-07-2023,417.59,Miscellaneous,Gift purchase
+16-07-2023,704.76,Utilities,Internet subscription
+16-07-2023,9193.05,Housing,Rent payment
+17-07-2023,294.22,Miscellaneous,Gift purchase
+17-07-2023,2242.50,Groceries,Farmers market
+17-07-2023,228.79,Miscellaneous,Gift purchase
+17-07-2023,456.99,Miscellaneous,Personal care items
+17-07-2023,105.36,Transportation,Rickshaw total daily cost
+17-07-2023,88.08,Miscellaneous,Gift purchase
+18-07-2023,19186.54,Education,School fees
+18-07-2023,212.12,Miscellaneous,Gift purchase
+18-07-2023,609.72,Dining,Coffee shop
+19-07-2023,11415.12,Housing,Property tax
+19-07-2023,1382.02,Dining,Restaurant meal
+19-07-2023,1651.81,Dining,Fast food
+19-07-2023,3514.17,Health,Health insurance
+20-07-2023,3997.32,Groceries,Farmers market
+20-07-2023,839.78,Utilities,Water bill
+20-07-2023,11820.08,Education,Textbook purchase
+20-07-2023,156.86,Entertainment,Streaming service subscription
+20-07-2023,196.11,Entertainment,Concert ticket
+21-07-2023,326.86,Miscellaneous,Personal care items
+21-07-2023,3129.05,Groceries,Supermarket
+22-07-2023,781.22,Utilities,Internet subscription
+22-07-2023,3895.94,Education,Textbook purchase
+23-07-2023,10707.39,Education,Textbook purchase
+23-07-2023,1220.10,Dining,Fast food
+23-07-2023,1575.04,Dining,Coffee shop
+24-07-2023,15848.71,Education,School fees
+24-07-2023,4697.32,Groceries,Supermarket
+24-07-2023,2508.40,Education,School fees
+24-07-2023,11889.61,Housing,Property tax
+24-07-2023,1770.85,Dining,Restaurant meal
+24-07-2023,2921.73,Groceries,Supermarket
+24-07-2023,641.68,Dining,Fast food
+25-07-2023,9636.95,Health,Health insurance
+25-07-2023,1246.43,Dining,Fast food
+25-07-2023,13775.87,Education,Textbook purchase
+26-07-2023,1510.21,Dining,Fast food
+27-07-2023,260.32,Miscellaneous,Personal care items
+28-07-2023,486.19,Miscellaneous,Gift purchase
+28-07-2023,942.70,Utilities,Electricity bill
+28-07-2023,1378.75,Utilities,Internet subscription
+28-07-2023,4595.22,Groceries,Supermarket
+30-07-2023,449.35,Dining,Restaurant meal
+30-07-2023,521.21,Dining,Fast food
+30-07-2023,555.27,Transportation,Rickshaw total daily cost
+31-07-2023,180.82,Entertainment,Streaming service subscription
+31-07-2023,1749.82,Groceries,Grocery store purchase
+31-07-2023,2485.00,Groceries,Supermarket
+01-08-2023,7569.31,Housing,Property tax
+01-08-2023,4147.29,Education,School fees
+01-08-2023,389.23,Transportation,Train ticket
+01-08-2023,583.63,Utilities,Water bill
+02-08-2023,2154.62,Education,Textbook purchase
+02-08-2023,4882.88,Groceries,Grocery store purchase
+02-08-2023,1539.17,Dining,Fast food
+02-08-2023,806.15,Transportation,Petrol filling
+02-08-2023,978.59,Utilities,Internet subscription
+03-08-2023,136.83,Transportation,Rickshaw total daily cost
+04-08-2023,339.55,Transportation,Rickshaw total daily cost
+04-08-2023,430.68,Transportation,Train ticket
+04-08-2023,1189.90,Utilities,Water bill
+05-08-2023,4010.26,Groceries,Grocery store purchase
+05-08-2023,186.96,Entertainment,Movie ticket
+05-08-2023,106.63,Dining,Restaurant meal
+05-08-2023,453.45,Transportation,Petrol filling
+06-08-2023,58.91,Miscellaneous,Gift purchase
+06-08-2023,177.68,Entertainment,Concert ticket
+06-08-2023,1279.04,Utilities,Electricity bill
+06-08-2023,861.79,Transportation,Bus pass
+07-08-2023,109.42,Entertainment,Movie ticket
+07-08-2023,1278.87,Dining,Restaurant meal
+08-08-2023,1544.61,Dining,Restaurant meal
+08-08-2023,367.76,Miscellaneous,Gift purchase
+08-08-2023,9174.15,Health,Pharmacy prescription
+08-08-2023,7591.85,Education,Textbook purchase
+09-08-2023,15039.45,Education,Online course subscription
+09-08-2023,713.68,Transportation,Rickshaw total daily cost
+09-08-2023,467.09,Transportation,Train ticket
+09-08-2023,8157.65,Education,Textbook purchase
+09-08-2023,9062.47,Housing,Property tax
+10-08-2023,116.45,Entertainment,Concert ticket
+10-08-2023,4933.30,Groceries,Grocery store purchase
+11-08-2023,683.75,Transportation,Petrol filling
+11-08-2023,362.18,Miscellaneous,Personal care items
+11-08-2023,513.91,Utilities,Electricity bill
+11-08-2023,8810.46,Health,Doctor appointment
+12-08-2023,660.70,Utilities,Electricity bill
+12-08-2023,1637.87,Dining,Coffee shop
+12-08-2023,666.24,Utilities,Internet subscription
+13-08-2023,957.61,Dining,Restaurant meal
+13-08-2023,2481.84,Groceries,Farmers market
+13-08-2023,4088.17,Groceries,Grocery store purchase
+13-08-2023,4217.02,Education,Online course subscription
+14-08-2023,1726.30,Dining,Coffee shop
+14-08-2023,2861.07,Education,Online course subscription
+14-08-2023,958.18,Dining,Coffee shop
+14-08-2023,212.52,Miscellaneous,Personal care items
+14-08-2023,44.28,Transportation,Rickshaw total daily cost
+14-08-2023,1234.12,Utilities,Electricity bill
+15-08-2023,136.96,Entertainment,Concert ticket
+15-08-2023,248.61,Miscellaneous,Personal care items
+15-08-2023,920.85,Utilities,Internet subscription
+16-08-2023,15241.00,Education,School fees
+16-08-2023,681.90,Dining,Fast food
+16-08-2023,8769.75,Housing,Mortgage installment
+16-08-2023,10329.51,Housing,Mortgage installment
+16-08-2023,361.13,Transportation,Bus pass
+17-08-2023,873.40,Transportation,Train ticket
+17-08-2023,841.24,Utilities,Electricity bill
+17-08-2023,971.98,Transportation,Bus pass
+17-08-2023,654.17,Utilities,Internet subscription
+17-08-2023,152.87,Entertainment,Movie ticket
+18-08-2023,277.59,Miscellaneous,Gift purchase
+18-08-2023,594.29,Transportation,Bus pass
+20-08-2023,30.96,Transportation,Bus pass
+20-08-2023,192.87,Entertainment,Concert ticket
+20-08-2023,486.94,Dining,Restaurant meal
+20-08-2023,862.22,Transportation,Bus pass
+20-08-2023,840.87,Transportation,Bus pass
+20-08-2023,7017.03,Education,School fees
+20-08-2023,554.26,Utilities,Internet subscription
+20-08-2023,147.13,Miscellaneous,Personal care items
+20-08-2023,692.41,Utilities,Electricity bill
+21-08-2023,364.92,Dining,Coffee shop
+21-08-2023,3328.40,Groceries,Supermarket
+21-08-2023,4240.28,Education,School fees
+21-08-2023,1798.07,Dining,Fast food
+22-08-2023,153.50,Entertainment,Movie ticket
+22-08-2023,14212.19,Housing,Mortgage installment
+22-08-2023,572.97,Utilities,Water bill
+23-08-2023,859.84,Utilities,Water bill
+23-08-2023,88.30,Miscellaneous,Charity donation
+23-08-2023,216.30,Groceries,Farmers market
+24-08-2023,219.56,Miscellaneous,Personal care items
+24-08-2023,1033.24,Health,gym fee
+25-08-2023,1988.08,Dining,Fast food
+25-08-2023,10284.71,Housing,Rent payment
+26-08-2023,108.14,Transportation,Train ticket
+26-08-2023,1050.35,Dining,Restaurant meal
+26-08-2023,202.02,Transportation,Bus pass
+26-08-2023,289.49,Dining,Restaurant meal
+26-08-2023,168.18,Transportation,Petrol filling
+26-08-2023,5220.29,Education,Online course subscription
+27-08-2023,3630.73,Groceries,Farmers market
+28-08-2023,8368.43,Housing,Rent payment
+28-08-2023,165.84,Transportation,Petrol filling
+29-08-2023,906.64,Transportation,Train ticket
+29-08-2023,162.24,Entertainment,Streaming service subscription
+29-08-2023,658.08,Transportation,Rickshaw total daily cost
+29-08-2023,3808.72,Groceries,Supermarket
+29-08-2023,754.58,Dining,Restaurant meal
+29-08-2023,9605.20,Health,Health insurance
+30-08-2023,1540.88,Dining,Restaurant meal
+30-08-2023,548.97,Dining,Restaurant meal
+30-08-2023,967.02,Utilities,Water bill
+30-08-2023,12856.80,Education,Online course subscription
+30-08-2023,682.60,Transportation,Rickshaw total daily cost
+31-08-2023,6133.57,Health,gym fee
+31-08-2023,1356.11,Dining,Restaurant meal
+31-08-2023,15675.40,Education,Online course subscription
+31-08-2023,10226.29,Housing,Property tax
+31-08-2023,127.05,Entertainment,Streaming service subscription
+31-08-2023,1333.29,Dining,Restaurant meal
+31-08-2023,864.94,Dining,Fast food
+01-09-2023,14374.95,Education,Online course subscription
+01-09-2023,14984.79,Education,Online course subscription
+01-09-2023,539.28,Transportation,Petrol filling
+02-09-2023,19495.72,Education,Online course subscription
+02-09-2023,3218.33,Groceries,Supermarket
+02-09-2023,1765.44,Education,Online course subscription
+02-09-2023,195.60,Miscellaneous,Personal care items
+02-09-2023,475.74,Transportation,Bus pass
+03-09-2023,1643.71,Dining,Coffee shop
+03-09-2023,1201.47,Utilities,Electricity bill
+03-09-2023,546.34,Transportation,Rickshaw total daily cost
+03-09-2023,6800.25,Housing,Property tax
+03-09-2023,746.24,Utilities,Electricity bill
+03-09-2023,14895.47,Housing,Mortgage installment
+03-09-2023,100.57,Entertainment,Streaming service subscription
+03-09-2023,209.72,Miscellaneous,Gift purchase
+04-09-2023,6047.64,Health,Doctor appointment
+04-09-2023,662.18,Transportation,Bus pass
+04-09-2023,549.19,Utilities,Electricity bill
+04-09-2023,164.89,Entertainment,Concert ticket
+04-09-2023,171.87,Entertainment,Streaming service subscription
+04-09-2023,99.34,Groceries,Farmers market
+04-09-2023,802.47,Transportation,Petrol filling
+04-09-2023,604.48,Transportation,Train ticket
+05-09-2023,1331.56,Utilities,Electricity bill
+05-09-2023,13804.32,Education,Online course subscription
+05-09-2023,360.54,Dining,Restaurant meal
+06-09-2023,270.77,Miscellaneous,Gift purchase
+06-09-2023,211.00,Dining,Restaurant meal
+07-09-2023,535.09,Transportation,Train ticket
+07-09-2023,518.92,Utilities,Internet subscription
+08-09-2023,199.46,Entertainment,Concert ticket
+09-09-2023,1062.20,Utilities,Internet subscription
+09-09-2023,137.53,Entertainment,Concert ticket
+09-09-2023,701.68,Transportation,Bus pass
+09-09-2023,744.66,Transportation,Rickshaw total daily cost
+09-09-2023,12669.01,Education,Online course subscription
+09-09-2023,3922.67,Education,Online course subscription
+10-09-2023,6525.56,Housing,Property tax
+10-09-2023,1378.13,Dining,Fast food
+11-09-2023,310.71,Miscellaneous,Charity donation
+11-09-2023,378.24,Dining,Fast food
+11-09-2023,1656.15,Education,Textbook purchase
+11-09-2023,1057.89,Utilities,Internet subscription
+12-09-2023,32.96,Transportation,Rickshaw total daily cost
+12-09-2023,147.74,Transportation,Bus pass
+13-09-2023,13656.87,Housing,Mortgage installment
+14-09-2023,847.50,Transportation,Train ticket
+14-09-2023,4396.20,Education,School fees
+14-09-2023,1045.76,Dining,Coffee shop
+15-09-2023,4222.85,Groceries,Supermarket
+15-09-2023,13171.76,Education,Online course subscription
+15-09-2023,1702.44,Dining,Coffee shop
+15-09-2023,701.96,Utilities,Internet subscription
+15-09-2023,342.20,Miscellaneous,Gift purchase
+15-09-2023,93.89,Miscellaneous,Personal care items
+16-09-2023,781.27,Groceries,Supermarket
+16-09-2023,3402.62,Education,Textbook purchase
+16-09-2023,121.45,Transportation,Rickshaw total daily cost
+17-09-2023,631.91,Groceries,Farmers market
+17-09-2023,1087.48,Groceries,Grocery store purchase
+17-09-2023,997.06,Transportation,Bus pass
+17-09-2023,890.37,Dining,Coffee shop
+17-09-2023,980.25,Utilities,Electricity bill
+17-09-2023,274.38,Miscellaneous,Personal care items
+18-09-2023,480.84,Dining,Coffee shop
+18-09-2023,110.36,Entertainment,Movie ticket
+19-09-2023,374.87,Miscellaneous,Gift purchase
+19-09-2023,380.48,Transportation,Train ticket
+19-09-2023,5199.94,Education,Online course subscription
+19-09-2023,429.48,Miscellaneous,Gift purchase
+20-09-2023,641.50,Utilities,Internet subscription
+20-09-2023,244.11,Transportation,Train ticket
+21-09-2023,313.38,Miscellaneous,Gift purchase
+21-09-2023,11093.34,Education,School fees
+21-09-2023,144.19,Entertainment,Movie ticket
+21-09-2023,1523.29,Dining,Restaurant meal
+22-09-2023,874.41,Utilities,Water bill
+22-09-2023,2217.69,Groceries,Farmers market
+22-09-2023,448.85,Miscellaneous,Personal care items
+22-09-2023,385.35,Transportation,Rickshaw total daily cost
+22-09-2023,835.30,Utilities,Electricity bill
+23-09-2023,872.73,Transportation,Petrol filling
+23-09-2023,1023.49,Utilities,Water bill
+23-09-2023,3448.07,Groceries,Farmers market
+23-09-2023,1251.77,Utilities,Internet subscription
+23-09-2023,434.63,Miscellaneous,Gift purchase
+24-09-2023,679.93,Groceries,Grocery store purchase
+24-09-2023,758.42,Transportation,Petrol filling
+25-09-2023,146.15,Miscellaneous,Charity donation
+25-09-2023,415.70,Transportation,Train ticket
+25-09-2023,440.05,Transportation,Train ticket
+26-09-2023,7012.60,Housing,Property tax
+26-09-2023,872.20,Transportation,Train ticket
+26-09-2023,1379.75,Utilities,Electricity bill
+28-09-2023,417.74,Transportation,Train ticket
+28-09-2023,740.34,Utilities,Water bill
+28-09-2023,265.33,Transportation,Train ticket
+29-09-2023,4217.56,Education,Online course subscription
+29-09-2023,340.60,Miscellaneous,Charity donation
+30-09-2023,386.58,Miscellaneous,Personal care items
+30-09-2023,170.54,Entertainment,Streaming service subscription
+30-09-2023,12005.64,Housing,Property tax
+01-10-2023,2917.73,Groceries,Supermarket
+01-10-2023,45.11,Transportation,Bus pass
+02-10-2023,1476.45,Groceries,Farmers market
+02-10-2023,707.28,Utilities,Water bill
+03-10-2023,284.63,Dining,Restaurant meal
+03-10-2023,57.46,Miscellaneous,Personal care items
+03-10-2023,771.09,Transportation,Rickshaw total daily cost
+03-10-2023,370.72,Miscellaneous,Charity donation
+04-10-2023,587.64,Dining,Restaurant meal
+04-10-2023,606.17,Utilities,Internet subscription
+04-10-2023,14395.00,Education,Online course subscription
+05-10-2023,223.95,Miscellaneous,Gift purchase
+05-10-2023,335.04,Groceries,Farmers market
+05-10-2023,101.66,Transportation,Rickshaw total daily cost
+05-10-2023,4578.61,Groceries,Grocery store purchase
+05-10-2023,3622.14,Groceries,Farmers market
+06-10-2023,422.08,Miscellaneous,Personal care items
+07-10-2023,953.99,Dining,Coffee shop
+07-10-2023,99.54,Miscellaneous,Personal care items
+07-10-2023,105.13,Miscellaneous,Personal care items
+08-10-2023,1891.03,Health,Pharmacy prescription
+08-10-2023,119.80,Entertainment,Concert ticket
+08-10-2023,364.03,Miscellaneous,Gift purchase
+08-10-2023,1890.27,Groceries,Supermarket
+09-10-2023,633.60,Utilities,Electricity bill
+09-10-2023,1119.88,Dining,Fast food
+09-10-2023,91.73,Miscellaneous,Charity donation
+10-10-2023,72.03,Miscellaneous,Personal care items
+10-10-2023,262.62,Miscellaneous,Charity donation
+10-10-2023,654.53,Transportation,Rickshaw total daily cost
+11-10-2023,934.34,Dining,Restaurant meal
+12-10-2023,131.62,Miscellaneous,Charity donation
+13-10-2023,668.49,Transportation,Rickshaw total daily cost
+13-10-2023,17727.63,Education,Textbook purchase
+13-10-2023,876.75,Transportation,Petrol filling
+13-10-2023,822.13,Transportation,Rickshaw total daily cost
+14-10-2023,269.23,Miscellaneous,Charity donation
+14-10-2023,494.32,Miscellaneous,Charity donation
+14-10-2023,216.38,Dining,Fast food
+14-10-2023,162.83,Entertainment,Streaming service subscription
+14-10-2023,14650.83,Housing,Property tax
+14-10-2023,10845.04,Education,Textbook purchase
+15-10-2023,1498.38,Dining,Coffee shop
+16-10-2023,1273.08,Utilities,Internet subscription
+16-10-2023,1264.55,Dining,Coffee shop
+16-10-2023,344.21,Miscellaneous,Gift purchase
+17-10-2023,1284.79,Utilities,Internet subscription
+17-10-2023,1514.35,Health,Pharmacy prescription
+17-10-2023,11277.32,Housing,Rent payment
+17-10-2023,11922.18,Education,School fees
+18-10-2023,108.69,Miscellaneous,Gift purchase
+18-10-2023,13277.89,Education,Textbook purchase
+18-10-2023,14631.82,Education,Textbook purchase
+19-10-2023,683.74,Transportation,Petrol filling
+20-10-2023,430.26,Miscellaneous,Personal care items
+20-10-2023,18998.83,Education,Textbook purchase
+20-10-2023,191.32,Dining,Restaurant meal
+20-10-2023,296.53,Transportation,Rickshaw total daily cost
+20-10-2023,3985.15,Education,School fees
+21-10-2023,558.14,Utilities,Water bill
+21-10-2023,151.91,Transportation,Bus pass
+22-10-2023,1207.23,Dining,Restaurant meal
+22-10-2023,981.31,Dining,Fast food
+22-10-2023,1972.09,Dining,Fast food
+22-10-2023,628.31,Dining,Restaurant meal
+23-10-2023,192.85,Transportation,Rickshaw total daily cost
+23-10-2023,17997.36,Education,Online course subscription
+24-10-2023,12199.81,Housing,Rent payment
+24-10-2023,463.31,Transportation,Bus pass
+24-10-2023,663.13,Utilities,Water bill
+25-10-2023,1595.15,Groceries,Grocery store purchase
+25-10-2023,7527.31,Housing,Property tax
+25-10-2023,320.12,Miscellaneous,Charity donation
+26-10-2023,200.55,Miscellaneous,Gift purchase
+26-10-2023,140.56,Miscellaneous,Personal care items
+28-10-2023,245.58,Transportation,Bus pass
+28-10-2023,6635.36,Housing,Mortgage installment
+28-10-2023,984.82,Utilities,Internet subscription
+28-10-2023,837.42,Utilities,Electricity bill
+28-10-2023,577.26,Dining,Restaurant meal
+29-10-2023,1211.31,Dining,Coffee shop
+29-10-2023,34.23,Transportation,Bus pass
+29-10-2023,3827.27,Groceries,Grocery store purchase
+30-10-2023,14018.39,Housing,Property tax
+30-10-2023,15948.36,Education,School fees
+30-10-2023,50.58,Miscellaneous,Gift purchase
+30-10-2023,11241.25,Education,Textbook purchase
+30-10-2023,3972.12,Groceries,Farmers market
